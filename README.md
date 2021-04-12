@@ -6,4 +6,4 @@ Requirement : Java Version 8 must already be installed in your Windows System { 
 
 * Note :- During installation chose drive other than C (or the one having OS).
 
-For any Help refer to Help_EGFRisopred
+For How to use refer to Help_EGFRisopred.pptx
